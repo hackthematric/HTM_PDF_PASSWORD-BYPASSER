@@ -1,0 +1,2 @@
+tkinter
+PyPDF4==1.27.0
